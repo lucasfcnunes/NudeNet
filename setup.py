@@ -22,6 +22,7 @@ VERSION = '1.1.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
+    'numpy',
     'keras==2.2.4',
     'opencv-python==4.0.0.21',
     'keras-retinanet==0.5.0',
